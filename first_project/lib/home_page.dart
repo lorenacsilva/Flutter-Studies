@@ -32,7 +32,7 @@ class homePageState extends State<HomePage> {
             CustomSwitch(),
             Container(
               height: 50,
-            ), // define um espaçamento entre um objeto e outro
+            ),
             Row(
               mainAxisAlignment:
                   MainAxisAlignment.spaceAround, // Espaço em volta
